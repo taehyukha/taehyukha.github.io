@@ -1,0 +1,53 @@
+#title, #subtitle {
+    color:black;
+    text-align: center;
+}
+
+.category {
+    text-align: center;
+}
+
+.profile {
+    background-color:whitesmoke;
+    color:darkgreen;
+    text-align: center;
+    border: 2px;
+    border-style: double;
+    border-color: gold;
+    margin: 3px;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 3px 400px 3px 400px;
+}
+
+.profile > #major {
+    color:blue;
+}
+
+.profile > #club, #bootcamp {
+    color:blueviolet;
+}
+
+#id {
+    background-color:aquamarine;
+    color: violet;
+    text-align: center;
+    border: 2px;
+    border-style:solid;
+    border-color: hotpink;
+    margin: 3px 600px 3px 600px;
+}
+
+.blah {
+    background-color:lightblue;
+    color:#775165;
+    text-align: center;
+    border: 2px;
+    border-style:none;
+    border-color: gold;
+    margin: 3px 250px 3px 250px;
+}
